@@ -5,6 +5,7 @@ import os
 import gspread
 # max_retries = 100  # Số lần thử tối đa
 # attempt = 0  # Biến đếm số lần thử
+# vân tay google sheet bao giờ tải code về máy mới phải mở lại credentials
 # credentials = {
 #             "type": "service_account",
 #             "project_id": "septoolacc",
